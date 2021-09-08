@@ -1,0 +1,23 @@
+.back{
+    font-size: xx-large;
+}
+
+b{
+    font-size: bold;
+}
+
+.img{
+    text-align: center;
+}
+pre{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+i {
+    font-style: italic;
+}
+code {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #660000;
+    font-style: normal;
+}
